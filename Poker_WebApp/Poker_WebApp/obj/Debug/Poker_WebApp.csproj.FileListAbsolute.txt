@@ -1,0 +1,7 @@
+C:\Users\leah.alcaraz\source\repos\ConsoleApp1\Poker_WebApp\obj\Debug\Poker_WebApp.csprojAssemblyReference.cache
+C:\Users\leah.alcaraz\source\repos\ConsoleApp1\Poker_WebApp\obj\Debug\Poker_WebApp.csproj.CoreCompileInputs.cache
+C:\Users\leah.alcaraz\source\repos\ConsoleApp1\Poker_WebApp\bin\Debug\Poker_WebApp.exe.config
+C:\Users\leah.alcaraz\source\repos\ConsoleApp1\Poker_WebApp\bin\Debug\Poker_WebApp.exe
+C:\Users\leah.alcaraz\source\repos\ConsoleApp1\Poker_WebApp\bin\Debug\Poker_WebApp.pdb
+C:\Users\leah.alcaraz\source\repos\ConsoleApp1\Poker_WebApp\obj\Debug\Poker_WebApp.exe
+C:\Users\leah.alcaraz\source\repos\ConsoleApp1\Poker_WebApp\obj\Debug\Poker_WebApp.pdb
